@@ -23,8 +23,8 @@ export default function RootLayout({
             </div> */}
             <div className="flex flex-col items-center justify-center">
               <h1 className="text-3xl font-bold pb-5 text-center text-sky-950">EM-RFMIC Engineering Research Group</h1>
-              <h2 className="text-2xl font-bold">Cardiff Metropolitan University</h2>
-              <h3 className="text-xl font-semibold">Cardiff School of Technologies</h3>
+              <h2 className="text-xl md:text-2xl font-bold">Cardiff Metropolitan University</h2>
+              <h3 className="md:text-xl font-semibold">Cardiff School of Technologies</h3>
               <i>Delivering Wales leadership in the areas of RF, Microwave and Electromagnetics Engineering to drive innovation in Healthcare and Space Systems</i>
             </div>
         </nav>

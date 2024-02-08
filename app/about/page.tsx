@@ -17,7 +17,7 @@ function page() {
         quality of life and create a brighter future for everyone.
       </h6>
       <h5 className="py-4 font-bold text-xl mt-6">Research Themes:</h5>
-      <div className="flex flex-col gap-5 px-28">
+      <div className="flex flex-col gap-5 px-3 md:px-28">
         <div className="flex items-center gap-4">
             <FaCircle className="text-[10px]" />
             <a href="" className="flex items-center gap-2 hover:scale-125 hover:pl-8 transition-all ease-in-out">

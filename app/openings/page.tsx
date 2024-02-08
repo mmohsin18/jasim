@@ -30,25 +30,25 @@ function page() {
             </div>
         </div>
       </div>
-      <div className=" pb-8">
+      <div className="pb-8">
           <h3 className="font-bold text-sky-950 text-2xl pb-5">Resources</h3>
-            <div className="flex items-center justify-start gap-6 pl-28 pb-6">
+            <div className="flex items-center justify-start gap-6 pl-11 md:pl-28 pb-6">
                 <FaCircle className="text-[10px]" />
                 <a href="https://www.leverhulme.ac.uk/" className="text-xl font-semibold hover:tracking-wider border-b-2 border-zinc-900 border-opacity-0 hover:border-opacity-100 hover:scale-110 transition-all ease-in-out">Leverhulme Trust</a>
             </div>
-            <div className="flex items-center justify-start gap-6 pl-28 pb-6">
+            <div className="flex items-center justify-start gap-6 pl-11 md:pl-28 pb-6">
                 <FaCircle className="text-[10px]" />
                 <a href="https://royalsociety.org/grants-schemes-awards/grants/" className="text-xl font-semibold hover:tracking-wider border-b-2 border-zinc-900 border-opacity-0 hover:border-opacity-100 hover:scale-110 transition-all ease-in-out">The Royal Society</a>
             </div>
-            <div className="flex items-center justify-start gap-6 pl-28 pb-6">
+            <div className="flex items-center justify-start gap-6 pl-11 md:pl-28 pb-6">
                 <FaCircle className="text-[10px]" />
                 <a href="https://funding.cymru/" className="text-xl font-semibold hover:tracking-wider border-b-2 border-zinc-900 border-opacity-0 hover:border-opacity-100 hover:scale-110 transition-all ease-in-out">Funding Wales</a>
             </div>
-            <div className="flex items-center justify-start gap-6 pl-28 pb-6">
+            <div className="flex items-center justify-start gap-6 pl-11 md:pl-28 pb-6">
                 <FaCircle className="text-[10px]" />
                 <a href="https://www.britishcouncil.org/education/he-science/going-global-partnerships/funding-calls-opportunities" className="text-xl font-semibold hover:tracking-wider border-b-2 border-zinc-900 border-opacity-0 hover:border-opacity-100 hover:scale-110 transition-all ease-in-out">British Council</a>
             </div>
-            <div className="flex items-center justify-start gap-6 pl-28 pb-6">
+            <div className="flex items-center justify-start gap-6 pl-11 md:pl-28 pb-6">
                 <FaCircle className="text-[10px]" />
                 <a href="https://www.ukri.org/opportunity/" className="text-xl font-semibold hover:tracking-wider border-b-2 border-zinc-900 border-opacity-0 hover:border-opacity-100 hover:scale-110 transition-all ease-in-out">UKRI</a>
             </div>

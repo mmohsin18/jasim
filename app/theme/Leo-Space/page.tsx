@@ -22,7 +22,6 @@ async function LeoSpace() {
 
   const theme = await client.fetch(query2);
 
-  console.log(theme.number);
 
   return (
     <div>

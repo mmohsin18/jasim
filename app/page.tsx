@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 function page() {
@@ -26,27 +27,27 @@ function page() {
           Collaboration Partners
         </h3>
         <div className=" flex items-center justify-evenly">
-          <img
+          <Image
             className="h-5 md:h-11"
             src="https://i.postimg.cc/ZnJmbk0W/logo-svg.png"
             alt=""
           />
-          <img
+          <Image
             className="h-5 md:h-16"
             src="https://i.postimg.cc/D0Tt1mJC/logo-svg-2.png"
             alt=""
           />
-          <img
+          <Image
             className="h-5 md:h-16"
             src="https://i.postimg.cc/G2P05cd4/queenmary-removebg-preview.png"
             alt=""
           />
-          <img
+          <Image
             className="h-5 md:h-16 px-7"
             src="https://i.postimg.cc/tgt207nG/greenlogo.png"
             alt=""
           />
-          <img
+          <Image
             className="h-5 md:h-11"
             src="https://i.postimg.cc/vT1rmmTB/uthm.png"
             alt=""

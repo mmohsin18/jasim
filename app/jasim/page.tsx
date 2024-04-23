@@ -30,8 +30,6 @@ const query2 = groq`
 const posts = await client.fetch(query);
 const jasimimg = await client.fetch(query2);
 
-console.log(jasimimg);
-
   return (
     <div>
       <div>
@@ -62,14 +60,14 @@ console.log(jasimimg);
                 contributes to the academic community as a member of the
                 accreditation panel committee for Cardiff School of Technologies
                 (CST). Dr. Jasim serves as an External Examiner for the MEng program
-                at Lancaster University. Dr. Jasim's expertise is further recognized
+                at Lancaster University. Dr. Jasim`&apos;`s expertise is further recognized
                 through his role as a special issue editor in the Symmetry journal,
-                specifically in the area of 'Advancements in Energy Harvesting,
-                Metamaterials, and their Integrated Multifunctional Systems'. His
+                specifically in the area of `&apos;`Advancements in Energy Harvesting,
+                Metamaterials, and their Integrated Multifunctional Systems`&apos;`. His
                 involvement in numerous IEEE international conferences is evident as
                 he holds positions of great responsibility, including technical
                 program committee (TPC) chair, organizing committee chair, and
-                session chair. Dr. Jasim's remarkable contributions are clearly
+                session chair. Dr. Jasim`&apos;`s remarkable contributions are clearly
                 demonstrated by his authorship or co-authorship of over 50
                 publications, which have received prominent recognition in esteemed
                 journals, conferences, and book chapters.

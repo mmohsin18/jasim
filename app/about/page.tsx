@@ -20,21 +20,21 @@ function page() {
       <div className="flex flex-col gap-5 px-3 md:px-28">
         <div className="flex items-center gap-4">
             <FaCircle className="text-[10px]" />
-            <a href="" className="flex items-center gap-2 hover:scale-125 hover:pl-8 transition-all ease-in-out">
+            <a href="/theme/Leo-Space" className="flex items-center gap-2 hover:scale-125 hover:pl-8 transition-all ease-in-out">
               <h6 className="font-regular hover:font-medium">LEO Space Satellite Communication </h6>
               <FaArrowRight className="text-sm" />
             </a>
         </div>
         <div className="flex items-center gap-4">
             <FaCircle className="text-[10px]" />
-            <a href="" className="flex items-center gap-2 hover:scale-125 hover:pl-6 transition-all ease-in-out">
+            <a href="/theme/healthcare" className="flex items-center gap-2 hover:scale-125 hover:pl-6 transition-all ease-in-out">
               <h6 className="font-regular hover:font-medium">Healthcare Technologies </h6>
               <FaArrowRight className="text-sm" />
             </a>
         </div>
         <div className="flex items-center gap-4">
             <FaCircle className="text-[10px]" />
-            <a href="" className="flex items-center gap-2 hover:scale-125 hover:pl-11 transition-all ease-in-out">
+            <a href="/theme/5g-technology" className="flex items-center gap-2 hover:scale-125 hover:pl-11 transition-all ease-in-out">
               <h6 className="font-regular hover:font-medium">Terrestrial 5G technologies and Intelligent surface </h6>
               <FaArrowRight className="text-sm" />
             </a>

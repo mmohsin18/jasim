@@ -6,6 +6,35 @@
   display: none;
 }
 
+*::selection{
+  background-color: rgb(3, 3, 69);
+  color: white;
+}
+
+.themeContent{
+  display: flex;
+}
+
+.button{
+  width: 10.8rem;
+}
+
+
+
+@media screen and (max-width: 600px) {
+  .themeContent {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .button{
+    font-size: small;
+    width: 12rem;
+  }
+}
+
+
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;

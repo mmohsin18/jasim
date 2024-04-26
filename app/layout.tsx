@@ -20,7 +20,7 @@ export default function RootLayout({
       <body className="bg-zinc-200 py-6">
         <nav className="mb-4 px-7">
             <div className="pb-4">
-                <Image width={600} height={400} className="h-64 w-screen object-cover" src="https://i.postimg.cc/ZRVnC9qS/research.png" alt="" />
+                <Image width={600} height={400} priority className="h-64 w-screen object-cover" src="https://i.postimg.cc/ZRVnC9qS/research.png" alt="" />
             </div>
             <div className="flex flex-col items-center justify-center">
               <h1 className="text-3xl font-bold pb-5 text-center text-sky-950">EM-RFMIC Engineering Research Group</h1>

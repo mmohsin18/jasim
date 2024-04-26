@@ -12,6 +12,11 @@ const nextConfig = {
             hostname: 'i.postimg.cc',
             port: '',
           },
+          {
+            protocol: 'https',
+            hostname: 'th.bing.com',
+            port: '',
+          },
         ],
       },
 };
